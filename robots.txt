@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eziroobi.github.io/Iwt/sitemap_index.txt
+Sitemap: https://eziroobi.github.io/Wsl/sitemap_index.txt
+Sitemap: https://eziroobi.github.io/nqI/sitemap_index.txt
+Sitemap: https://eziroobi.github.io/oPE/sitemap_index.txt
